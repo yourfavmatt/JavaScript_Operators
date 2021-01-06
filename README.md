@@ -36,6 +36,8 @@ let lastName = "Chan";
 - What is the value of: a + firstName?
 - What is the value of: a + lastName?
 
+Use the code above to test and print the results.
+
 ## Exercise 3
 
 1. Use the following code to answer the questions below:
@@ -58,3 +60,5 @@ let lastName = "Williams";
 - What is the value of: 0 === false?
 - What is the value of: 0 != false?
 - What is the value of 0 !== false?
+
+Use the code above to test and print the results.

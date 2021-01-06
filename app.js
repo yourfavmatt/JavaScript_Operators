@@ -4,7 +4,16 @@ console.log(
 );
 
 // Exercise 1
+console.log("EXERCISE 1:\n==========\n");
+
+// YOUR CODE HERE
 
 // Exercise 2
+console.log("EXERCISE 2:\n==========\n");
+
+// YOUR CODE HERE
 
 // Exercise 3
+console.log("EXERCISE 3:\n==========\n");
+
+// YOUR CODE HERE
