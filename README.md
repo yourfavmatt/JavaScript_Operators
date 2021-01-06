@@ -13,7 +13,7 @@
 2. Declare a variable `add` that uses the `+` operator to store the result of adding the values stored in `a` and `b`
 3. Declare a variable `minus` that uses the `-` operator to store the result of subtracting the values stored in `a` and `b`
 4. Declare a variable `multiply` that uses the `*` operator to store the result of multiplying the values stored in `a` and `b`
-5. Declare a variable `dividing` that uses the `/` operator to store the result of dividing the values stored in `a` and `b`
+5. Declare a variable `divide` that uses the `/` operator to store the result of dividing the values stored in `a` and `b`
 
 You can print the value of the variables to the browser console (ex: `console.log(add)`) to check the result.
 
