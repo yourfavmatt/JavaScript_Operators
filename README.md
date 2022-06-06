@@ -2,7 +2,7 @@
 
 ## Steps
 
-1. Fork this repository to start a new project in your repos folder == git clone <JavaScript_Operators>
+1. Fork this repository to start a new project in your repos folder => `git clone <JavaScript_Operators>`
 2. cd JavaScript_Operators to navigate into your new repo directory
 3. Type the command code . to open VSC with the JavaScript_Operators folder
 4. Open the app.js file
@@ -22,19 +22,20 @@ You can print the value of the variables to the browser console (ex: `console.lo
 1. Use the following code to answer the questions below:
 
 ```
-let a = 11;
+let num = 11;
 let str = "11";
 let str2 = "eleven";
 let isPresent = true;
-let firstName = "Jackie";
-let lastName = "Chan";
+let firstName = "Frodo";
+let lastName = "Baggins";
 ```
 
-- What is the value of: a + str?
-- What is the value of: a + str2?
-- What is the value of: a + isPresent?
-- What is the value of: a + firstName?
-- What is the value of: a + lastName?
+- What is the value of: num + str?
+- What is the value of: num + str2?
+- What is the value of: num + isPresent?
+- What is the value of: firstName + num?
+- What is the value of: isPresent + str?
+- What is the value of: firstName + lastName?
 
 Use the code above to test and print the results.
 
@@ -43,18 +44,16 @@ Use the code above to test and print the results.
 1. Use the following code to answer the questions below:
 
 ```
-let a = 5;
+let val = 5;
 let str = "5";
 let str2 = "five";
 let isPresent = false;
-let firstName = "Robin";
-let lastName = "Williams";
 ```
 
-- What is the value of: a == str?
-- What is the value of: a === str?
+- What is the value of: val == str?
+- What is the value of: val === str?
 - What is the value of: !isPresent?
-- What is the value of: (“eleven” == str2 && a >= str)?
+- What is the value of: (“eleven” == str2 && val >= str)?
 - What is the value of: (!isPresent || isPresent)?
 - What is the value of: 0 == false?
 - What is the value of: 0 === false?
